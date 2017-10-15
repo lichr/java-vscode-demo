@@ -72,7 +72,7 @@ code hello_world
 
 In **Debug** Side Panel, configure launch.json, and start debug the application.
 
-~~~json
+~~~js
 {
     // Use IntelliSense to learn about possible attributes.
     // Hover to view descriptions of existing attributes.
