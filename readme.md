@@ -102,7 +102,12 @@ In **Debug** Side Panel, configure launch.json, and start debug the application.
 Setup git repository
 --------------------
 
+Make sure you have account in github.com, it is free.
+
+Create a new repository for your project in github.com, java-vscode-hello for example
+
 Add **.gitignore** in your project's root folder, and add these lines:
+
 ~~~
 log/
 target/
@@ -118,3 +123,5 @@ git commit -m "initial commit"
 git remote add origin https://github.com/lichr/java-vscode-hello.git
 git push -u origin master
 ~~~
+
+After finishing this, you can use VSCode's source control side panel to perform every-day tasks such as **sync**.
