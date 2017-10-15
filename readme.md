@@ -114,7 +114,7 @@ Run these commands:
 ~~~sh
 git init
 git add --all
-git commit -m "Initial commit"
+git commit -m "initial commit"
 git remote add origin https://github.com/lichr/java-vscode-hello.git
 git push -u origin master
 ~~~
